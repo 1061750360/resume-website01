@@ -1,0 +1,25 @@
+// 共享样式代码
+@color-blue: #337ab7;
+@color-grey: #E4E2E3;
+@color-CCC: #CCC;
+@color-font: #fff;
+@color-experience: #FFD200;
+
+@font-size-title: 36px;
+
+.container{
+  overflow: hidden;
+}
+
+.foo (@bg: #f5f5f5, @color: #900) {
+  background: @bg;
+  color: @color;
+}
+
+.transformX(@px:50%){
+  -webkit-transform: translateX(@px);
+  -moz-transform: translateX(@px);
+  -ms-transform: translateX(@px);
+  -o-transform: translateX(@px);
+  transform: translateX(@px);
+}
