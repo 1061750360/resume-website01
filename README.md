@@ -1,24 +1,26 @@
 # resume-website
+该项目只完成整体框架，细节和内容部分需要自行填充
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 效果图如下
+![效果展示图](./readmeImages/1.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![效果展示图](./readmeImages/2.png)
+
+![效果展示图](./readmeImages/3.png)
+
+
