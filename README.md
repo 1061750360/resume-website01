@@ -17,10 +17,10 @@ npm run build
 ```
 
 ### 效果图如下
-![效果展示图](./readmeImages/1.png)
+![效果展示图](readmeImages/1.png)
 
-![效果展示图](./readmeImages/2.png)
+![效果展示图](readmeImages/2.png)
 
-![效果展示图](./readmeImages/3.png)
+![效果展示图](readmeImages/3.png)
 
 
